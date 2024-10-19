@@ -54,6 +54,7 @@ Developed a user-friendly UI/UX platform called "Facial-Police" that facilitates
 
 <img src="https://iili.io/dZ8U92V.png" alt="Comparative Result 3" width="400"/>
 
+
 ### UI 
 <img src="https://i.postimg.cc/t4b4G1WF/Whats-App-Image-2024-10-19-at-20-56-21-8ed59cc4.jpg" alt="Comparative Result 3" width="400"/>
 <img src="https://i.postimg.cc/8P5qJTGx/Whats-App-Image-2024-10-19-at-20-56-20-065e44c92222222222222.jpg" alt="Comparative Result 3" width="400"/>
@@ -62,7 +63,8 @@ Developed a user-friendly UI/UX platform called "Facial-Police" that facilitates
 <img src="blob:https://web.whatsapp.com/c274ed0f-71df-465a-a8b5-ba9334f97b43" alt="Comparative Result 3" width="400"/>
 
 ### Real time face recognition
-<img src="blob:https://web.whatsapp.com/08921c59-45c5-4b83-b8bf-68c984d0c933" alt="Comparative Result 3" width="400"/>
+<img src="https://freeimage.host/i/22yfsLv" alt="Real time recognition" width="400"/>
+<img src="https://freeimage.host/i/22yBFta" alt="Real time recognition" width="400"/>
 
 #### Link to complete result set:
 + [CodeFormer](https://drive.google.com/file/d/1FwWUeVGKWGQP0BgxOEZ8CAmtO-eYAevl/view?usp=sharing)
