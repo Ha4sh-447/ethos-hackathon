@@ -21,7 +21,7 @@
 The result folder contains codeFormer_result and gfpgan_result respectively.
 [result/gfpgan_result/cmp](result/gfpgan_result/cmp) and [result/coderformer_result/compare](result/codeformer_result/compare) contains side by side comparison of extracted and enhanced image
 
-## Added Features
+## Added Features - Round 2
 
 Real-Time Monitoring:
 Implemented real-time monitoring using OpenCV2 and the face_recognition library. This allows the system to detect and recognize faces in real-time from live video feeds or pre-recorded videos.
@@ -63,8 +63,8 @@ Developed a user-friendly UI/UX platform called "Facial-Police" that facilitates
 <img src="blob:https://web.whatsapp.com/c274ed0f-71df-465a-a8b5-ba9334f97b43" alt="Comparative Result 3" width="400"/>
 
 ### Real time face recognition
-<img src="https://freeimage.host/i/22yfsLv" alt="Real time recognition" width="400"/>
-<img src="https://freeimage.host/i/22yBFta" alt="Real time recognition" width="400"/>
+<img src="https://iili.io/22yfsLv.jpg" alt="Real time recognition" width="400"/>
+<img src="https://iili.io/22yBFta.jpg" alt="Real time recognition" width="400"/>
 
 #### Link to complete result set:
 + [CodeFormer](https://drive.google.com/file/d/1FwWUeVGKWGQP0BgxOEZ8CAmtO-eYAevl/view?usp=sharing)
