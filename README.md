@@ -61,6 +61,8 @@ Developed a user-friendly UI/UX platform called "Facial-Police" that facilitates
 <img src="blob:https://web.whatsapp.com/5e6a5345-c931-44c2-98b4-dccfe5d6ec60" alt="Comparative Result 3" width="400"/>
 <img src="blob:https://web.whatsapp.com/c274ed0f-71df-465a-a8b5-ba9334f97b43" alt="Comparative Result 3" width="400"/>
 
+### Real time face recognition
+<img src="blob:https://web.whatsapp.com/08921c59-45c5-4b83-b8bf-68c984d0c933" alt="Comparative Result 3" width="400"/>
 
 #### Link to complete result set:
 + [CodeFormer](https://drive.google.com/file/d/1FwWUeVGKWGQP0BgxOEZ8CAmtO-eYAevl/view?usp=sharing)
